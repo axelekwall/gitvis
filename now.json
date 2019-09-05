@@ -2,7 +2,6 @@
   "version": 2,
   "name": "gitvis",
   "public": true,
-  "builds": [{ "src": "package.json", "use": "@now/static-build" }],
   "github": {
     "enabled": false
   },
